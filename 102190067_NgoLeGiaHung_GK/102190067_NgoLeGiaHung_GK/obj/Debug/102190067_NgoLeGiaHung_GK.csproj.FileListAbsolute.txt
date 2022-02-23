@@ -1,0 +1,11 @@
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\102190067_NgoLeGiaHung_GK.csprojAssemblyReference.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\_102190067_NgoLeGiaHung_GK.Form1.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\_102190067_NgoLeGiaHung_GK.Form2.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\_102190067_NgoLeGiaHung_GK.Properties.Resources.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\102190067_NgoLeGiaHung_GK.csproj.GenerateResource.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\102190067_NgoLeGiaHung_GK.csproj.CoreCompileInputs.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\bin\Debug\102190067_NgoLeGiaHung_GK.exe.config
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\bin\Debug\102190067_NgoLeGiaHung_GK.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\bin\Debug\102190067_NgoLeGiaHung_GK.pdb
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\102190067_NgoLeGiaHung_GK.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung_GK\102190067_NgoLeGiaHung_GK\obj\Debug\102190067_NgoLeGiaHung_GK.pdb

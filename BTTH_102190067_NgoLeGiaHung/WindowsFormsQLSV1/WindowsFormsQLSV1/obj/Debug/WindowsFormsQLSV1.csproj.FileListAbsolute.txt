@@ -1,0 +1,11 @@
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\bin\Debug\WindowsFormsQLSV1.exe.config
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\bin\Debug\WindowsFormsQLSV1.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\bin\Debug\WindowsFormsQLSV1.pdb
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.csprojAssemblyReference.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.Form1.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.Form2.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.Properties.Resources.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.csproj.GenerateResource.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.csproj.CoreCompileInputs.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\WindowsFormsQLSV1\WindowsFormsQLSV1\obj\Debug\WindowsFormsQLSV1.pdb

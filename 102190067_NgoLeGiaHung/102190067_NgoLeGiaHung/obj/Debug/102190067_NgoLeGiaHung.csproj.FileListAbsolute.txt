@@ -1,0 +1,16 @@
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\102190067_NgoLeGiaHung.exe.config
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\102190067_NgoLeGiaHung.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\102190067_NgoLeGiaHung.pdb
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\EntityFramework.dll
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\EntityFramework.xml
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\102190067_NgoLeGiaHung.csprojAssemblyReference.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\_102190067_NgoLeGiaHung.GUi._102190067_DF.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\_102190067_NgoLeGiaHung.Form1.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\_102190067_NgoLeGiaHung.Properties.Resources.resources
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\102190067_NgoLeGiaHung.csproj.GenerateResource.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\102190067_NgoLeGiaHung.csproj.CoreCompileInputs.cache
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\102190067_NgoLeGiaHung.csproj.CopyComplete
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\102190067_NgoLeGiaHung.exe
+C:\Users\rynth\OneDrive\Desktop\4\.NET\102190067_NgoLeGiaHung\102190067_NgoLeGiaHung\obj\Debug\102190067_NgoLeGiaHung.pdb
